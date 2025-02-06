@@ -1,4 +1,4 @@
-![Please help me](https://i.imgur.com/SV50bP8_d.webp?maxwidth=760&fidelity=grand)
+<img src="https://i.imgur.com/SV50bP8_d.webp?maxwidth=760&fidelity=grand" alt="Alt text" width="200"/>
 
 <!--
 **T0niel/T0niel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
